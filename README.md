@@ -46,7 +46,7 @@ _See the confusion matrix and test scores at the end of this README_
 ## Usage
 1. Place the .mp4 video file in the working directory.
 2. Ensure the model file face_emotion_recognition.h5 is present.
-3. Update the video path inside EmotionRecognition_VideoApp.py if necessary.
+3. Update the video path inside EmotionRecognition_VideoApp.py as you like.
 
 ## Demonstrated Skills
    - Proficient use of deep learning libraries (TensorFlow/Keras) for model deployment.
