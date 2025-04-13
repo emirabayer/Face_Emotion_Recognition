@@ -5,7 +5,8 @@ This project is a real-time application for detecting and classifying human faci
 The system combines OpenCV for video processing and face detection, with TensorFlow/Keras for deep learning-based emotion classification.
 
 <p align="center">
-
+![emotion_recognition](https://github.com/user-attachments/assets/8410a9e5-6581-4972-8e84-a1aac027d56a)
+   
 _See the confusion matrix and test scores at the end of this README_
 </p>
 
