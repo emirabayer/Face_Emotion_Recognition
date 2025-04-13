@@ -45,3 +45,14 @@ _See the confusion matrix and test scores at the end of this README_
 1. Place the .mp4 video file in the working directory.
 2. Ensure the model file face_emotion_recognition.h5 is present.
 3. Update the video path inside EmotionRecognition_VideoApp.py if necessary.
+
+## Demonstrated Skills
+   - Proficient use of deep learning libraries (TensorFlow/Keras) for model deployment.
+   - Understanding of CNN architectures and transfer learning (MobileNetV2).
+   - Application of real-time image classification in a user-facing system.
+   - Experience with video and face processing using OpenCV.
+   - Practical implementation of end-to-end ML systems from training to deployment.
+
+## Scores
+![image](https://github.com/user-attachments/assets/e2849ff1-ba1f-4570-b891-75754d66dd19)
+![image](https://github.com/user-attachments/assets/fc44eb23-5952-4502-bfbc-b97da561fcbe)
